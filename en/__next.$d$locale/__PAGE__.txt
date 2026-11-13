@@ -1,0 +1,24 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/2kc8uoqp95-bh.js"
+5:"/_next/static/chunks/30ibr7whbaooy.js"
+6:"/_next/static/chunks/1mhefkd8uidem.js"
+7:I[7491,["$4","$5","$6"],"default"]
+8:"/_next/static/chunks/3w3qc_46cx-w5.js"
+9:I[53742,["$8"],"OutletBoundary"]
+a:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[53742,["$8"],"$e"]
+10:"MetadataBoundary"
+11:I[53742,["$8"],"$10"]
+12:I[67615,["$8"],"IconMark"]
+d:X
+2:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$3","c",{"children":[["$","$L7",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/1mhefkd8uidem.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"p":"$@c","v":null,"s":"$d"}}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["components"]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kashalot Travel — a different kind of travel / art project"}],["$","meta","1",{"name":"description","content":"A satirical art project about travelling aboard sperm whales. Explore the operating model, the Atlantic route and a campaign in preparation with a $200,000 goal."}],["$","link","2",{"rel":"canonical","href":"https://spectrages.github.io/en/"}],["$","link","3",{"rel":"alternate","hrefLang":"ru","href":"https://spectrages.github.io/ru/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://spectrages.github.io/en/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://spectrages.github.io/"}],["$","meta","6",{"property":"og:title","content":"Kashalot Travel — a different kind of travel / art project"}],["$","meta","7",{"property":"og:description","content":"One ocean. One living engine. Kashalot Travel, a satirical art project. Campaign in preparation. Goal: $200,000."}],["$","meta","8",{"property":"og:url","content":"https://spectrages.github.io/en/"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://spectrages.github.io/images/whale-diving.webp"}],["$","meta","11",{"property":"og:image:width","content":"1400"}],["$","meta","12",{"property":"og:image:height","content":"933"}],["$","meta","13",{"property":"og:locale:alternate","content":"ru_RU"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Kashalot Travel — a different kind of travel / art project"}],["$","meta","17",{"name":"twitter:description","content":"One ocean. One living engine. Kashalot Travel, a satirical art project. Campaign in preparation. Goal: $200,000."}],["$","meta","18",{"name":"twitter:image","content":"https://spectrages.github.io/images/whale-diving.webp"}],["$","meta","19",{"name":"twitter:image:width","content":"1400"}],["$","meta","20",{"name":"twitter:image:height","content":"933"}],["$","link","21",{"rel":"icon","href":"/whale.svg"}],["$","$L12","22",{}]]}]}],null]}],null]}],"p":"$@13","v":null,"s":"$d"}},"a":"$@14","u":"$@15","b":"0V1PL4Fq-yJiz1it0uuSN"}
+b:null
+15:true
+d:300
+d:C
+14:0
+13:"$undefined"
+c:"$undefined"
