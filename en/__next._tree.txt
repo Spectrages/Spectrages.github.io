@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/08scxw_xowsx4.css","style"]
+:HL["/_next/static/chunks/2moqp3-f05-1_.css","style"]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["components"]},"h":65584,"c":"$Q2"}]]
-0:{"b":"0NFl1MHzGtMKVIV-IG0_-","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"AuPy9KMoolOqvko9yvc1j","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
